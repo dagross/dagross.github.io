@@ -170,7 +170,7 @@ input, select, textarea {
 			border-bottom-color: transparent;
 			color: #f2849e !important;
 		}
-
+		
 	strong, b {
 		font-weight: 900;
 	}
@@ -2794,7 +2794,7 @@ input, select, textarea {
 			}
 
 				.tiles article {
-					width: calc(33.33333% - 1.25em);
+					width: calc(50% - 1.25em);
 					margin: 1.25em 0 0 1.25em;
 				}
 
